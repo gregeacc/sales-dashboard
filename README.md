@@ -26,15 +26,6 @@ A Python-based sales dashboard application that visualizes sales data and provid
    python app.py
    ```
 
-## Building Executable
-To create a standalone executable:
-1. Make sure all dependencies are installed
-2. Run the build script:
-   ```
-   python build.py
-   ```
-3. Find the executable in the `dist` directory
-
 ## Data Management
 - The application uses SQLite database to store sales data
 - You can import data through the web interface using CSV files
